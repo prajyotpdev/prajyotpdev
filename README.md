@@ -2,7 +2,7 @@
 
 I'm Prajyot Pawar, a passionate Flutter developer on a journey of exploration and innovation in the world of app development. 🚀
 
-- 🎓 Student turned Professional Developer
+- 🎓 Experienced Developer
 - 📱 Flutter Enthusiast
 - 🌏 Welcoming new ideas to make a better world
 
@@ -23,9 +23,9 @@ I'm always open to collaborations, discussions, and new ideas that can make our 
 
 📬 **Get in Touch**
 
-- LinkedIn: [LinkedIN](https://www.linkedin.com/in/prajyot-pawar/)
+- LinkedIn: [LinkedIN](https://www.linkedin.com/in/prajyot-pawar-579a5834b/)
 - Twitter: [Twitter](https://twitter.com/PrajyotP326805)
 - Email: prajyotp.dev@gmail.com
-- Portfolio: [See My Portfolio](https://prajyotpawar.me/#/)
+- Portfolio: [See My Portfolio](https://prajyotpdev.github.io/)
 
 Let's connect, innovate, and create a brighter future together! 🌟
